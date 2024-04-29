@@ -2,6 +2,8 @@
 
 ## Excursión Lisboa
 
+[26 lugares que visitar en Lisboa imprescindibles (mapa + itinerarios)](https://www.viajeroscallejeros.com/lugares-que-visitar-lisboa/)
+
 ### Salida: Hotel Pestana Cascais
 - **Medio de Transporte a Lisboa**: Desde el Hotel Pestana Cascais hasta Praça dos Restauradores.
   - **Opción 1**: Tren (comodidad y precio razonable). Toma el tren desde la Estación Cascais hasta la Estación Cais do Sodré y cambia a la línea verde del metro hasta la estación Restauradores. 
