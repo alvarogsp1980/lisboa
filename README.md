@@ -1,3 +1,7 @@
+# Excursiones
+
+## Excursión Lisboa
+
 ### Salida: Hotel Pestana Cascais
 - **Medio de Transporte a Lisboa**: Desde el Hotel Pestana Cascais hasta Praça dos Restauradores.
   - **Opción 1**: Tren (comodidad y precio razonable). Toma el tren desde la Estación Cascais hasta la Estación Cais do Sodré y cambia a la línea verde del metro hasta la estación Restauradores. 
@@ -125,3 +129,78 @@
 - **Coste/Entrada**: 10€.
 - **Qué veremos**: Colecciones que abarcan desde la antigüedad hasta el siglo XXI.
 - **Tipo**: Museo.
+
+
+## Excursión Cascais
+
+### Salida: Hotel Pestana Cascais
+- **Cómo llegar al primer punto**:
+  1. **A pie**: Es una opción saludable y gratuita si el primer punto está cerca.
+  2. **Bicicleta**: Puedes alquilar una bicicleta para una experiencia más rápida y ecológica.
+  3. **Taxi/Uber**: Para mayor comodidad y rapidez, aunque más costoso.
+
+### 1. Boca do Inferno
+- **Distancia desde el hotel**: 2.3 km (aprox. 29 min a pie).
+- **Coste/Entrada**: Gratis.
+- **Qué veremos**: Impresionantes vistas de acantilados y el mar.
+- **Tipo**: Atracción natural.
+
+### 2. Cascais Marina
+- **Distancia al siguiente punto**: 1.5 km (aprox. 18 min a pie).
+- **Coste/Entrada**: Gratis.
+- **Qué veremos**: Yates, ambiente marítimo y restaurantes.
+- **Tipo**: Marina.
+
+### 3. Centro histórico de Cascais
+- **Distancia al siguiente punto**: 300 m (aprox. 4 min a pie).
+- **Coste/Entrada**: Gratis.
+- **Qué veremos**: Arquitectura tradicional, calles estrechas y tiendas locales.
+- **Tipo**: Zona histórica.
+
+### 4. Playa de Ribeira (Playa dos Pescadores)
+- **Distancia al siguiente punto**: 400 m (aprox. 5 min a pie).
+- **Coste/Entrada**: Gratis.
+- **Qué veremos**: Playa urbana con ambiente local y vistas al mar.
+- **Tipo**: Playa.
+
+### 5. Parque Marechal Carmona
+- **Distancia al siguiente punto**: 500 m (aprox. 6 min a pie).
+- **Coste/Entrada**: Gratis.
+- **Qué veremos**: Jardines, área de juegos para niños, y cafetería.
+- **Tipo**: Parque.
+
+### 6. Museo Condes de Castro Guimarães
+- **Distancia al siguiente punto**: 100 m (aprox. 1 min a pie, adyacente al parque).
+- **Coste/Entrada**: 4€.
+- **Qué veremos**: Colecciones de arte y un edificio histórico.
+- **Tipo**: Museo.
+
+### 7. Boca do Inferno (recapitulación para ajustar el recorrido)
+- **Distancia al siguiente punto**: 1.2 km (aprox. 15 min a pie de regreso).
+- **Coste/Entrada**: Gratis.
+- **Qué veremos**: (ya descrito anteriormente).
+- **Tipo**: Atracción natural.
+
+### 8. Casa de Santa Maria
+- **Distancia al siguiente punto**: 1.5 km (aprox. 18 min a pie).
+- **Coste/Entrada**: 3€.
+- **Qué veremos**: Una de las casas más bellas y fotogénicas de Cascais.
+- **Tipo**: Sitio histórico.
+
+### 9. Faro de Santa Marta
+- **Distancia al siguiente punto**: 300 m (aprox. 4 min a pie).
+- **Coste/Entrada**: 3€ para el museo.
+- **Qué veremos**: Faro histórico y museo marítimo.
+- **Tipo**: Faro/Museo.
+
+### 10. Playa de Guincho
+- **Distancia de regreso al hotel**: 9 km (requiere transporte).
+- **Coste/Entrada**: Gratis.
+- **Qué veremos**: Playa popular para surfistas con un paisaje espectacular.
+- **Tipo**: Playa.
+
+### Regreso al Hotel Pestana Cascais
+- **Opciones de Transporte**:
+  1. **Autobús**: Línea regular con paradas cercanas a la playa.
+  2. **Bicicleta**: Puede ser desafiante por la distancia y el viento.
+  3. **Taxi/Uber**: Rápido y cómodo, ideal si estás cansado después de un largo día.
