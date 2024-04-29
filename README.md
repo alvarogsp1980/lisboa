@@ -75,9 +75,7 @@
 - **Tipo**: Calle comercial.
 
 ### 12. Arco Monumental (al final de Rua Augusta)
-- **Distancia al siguiente punto**: 300 m (aprox. 
-
-4 min a pie).
+- **Distancia al siguiente punto**: 300 m (aprox. 4 min a pie).
 - **Coste/Entrada**: 3€ (para subir al mirador).
 - **Qué veremos**: Vista panorámica desde el mirador del arco.
 - **Tipo**: Monumento.
