@@ -1,5 +1,3 @@
-Para organizar un tour completo desde el Hotel Pestana Cascais hasta la Plaza del Comercio en Lisboa, considerando todos los detalles que has solicitado, aquí tienes la planificación del tour:
-
 ### Salida: Hotel Pestana Cascais
 - **Medio de Transporte a Lisboa**: Desde el Hotel Pestana Cascais hasta Praça dos Restauradores.
   - **Opción 1**: Tren (comodidad y precio razonable). Toma el tren desde la Estación Cascais hasta la Estación Cais do Sodré y cambia a la línea verde del metro hasta la estación Restauradores. 
@@ -98,4 +96,4 @@ Para organizar un tour completo desde el Hotel Pestana Cascais hasta la Plaza de
 - **Qué veremos**: Amplia plaza frente al río, estatua de José I y el área comercial.
 - **Tipo**: Plaza pública.
 
-Este itinerario te proporcionará una experiencia completa y rica en cultura e historia por Lisboa. Cada sitio tiene su encanto y merece una visita. ¡Disfruta tu viaje!
+
