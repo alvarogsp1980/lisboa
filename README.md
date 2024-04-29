@@ -131,6 +131,8 @@
 
 ## Excursión Cascais
 
+[10 lugares que ver en Cascais imprescindibles](https://www.viajeroscallejeros.com/lugares-que-ver-en-cascais/)
+
 ### Salida: Hotel Pestana Cascais
 - **Cómo llegar al primer punto**:
   1. **A pie**: Es una opción saludable y gratuita si el primer punto está cerca.
@@ -202,3 +204,91 @@
   1. **Autobús**: Línea regular con paradas cercanas a la playa.
   2. **Bicicleta**: Puede ser desafiante por la distancia y el viento.
   3. **Taxi/Uber**: Rápido y cómodo, ideal si estás cansado después de un largo día.
+
+## Excursión Sintra
+
+[10 lugares que ver en Sintra imprescindibles](https://www.viajeroscallejeros.com/lugares-que-ver-en-sintra/)
+
+### Salida: Hotel Pestana Cascais
+- **Cómo llegar al primer punto de interés en Sintra**:
+  1. **Tren**: Desde la estación de Cascais, tomar un tren hacia Sintra con un cambio en la Estación Estoril. Es económico y toma alrededor de 40 minutos.
+  2. **Autobús**: Directo de Cascais a Sintra, puede tomar alrededor de 45 minutos, es una opción económica pero menos frecuente.
+  3. **Taxi/Uber**: Más costoso pero directo y rápido, tarda aproximadamente 20 minutos.
+
+### 1. Palacio Nacional de Sintra
+- **Distancia desde el punto de llegada a Sintra**: 1 km (aprox. 12 min a pie desde la estación de tren).
+- **Coste/Entrada**: Aproximadamente 10€.
+- **Reserva/Horario**: No es necesario reservar, usualmente abierto de 09:30 a 18:00.
+- **Qué veremos**: Arquitectura única con mezclas de estilos gótico, manuelino y mudéjar.
+- **Tipo**: Palacio.
+
+### 2. Quinta da Regaleira
+- **Distancia al siguiente punto**: 800 m (aprox. 10 min a pie).
+- **Coste/Entrada**: 8€.
+- **Reserva/Horario**: No es necesario reservar, abierto de 09:30 a 20:00 en verano.
+- **Qué veremos**: Palacio enigmático con jardines, pozos y grutas místicas.
+- **Tipo**: Palacio y jardines.
+
+### 3. Castillo de los Moros
+- **Distancia al siguiente punto**: 2 km (aprox. 35 min a pie o autobús turístico).
+- **Coste/Entrada**: 8€.
+- **Reserva/Horario**: Abierto de 09:30 a 20:00.
+- **Qué veremos**: Ruinas fortificadas con vistas panorámicas de Sintra.
+- **Tipo**: Castillo.
+
+### 4. Palacio Nacional da Pena
+- **Distancia al siguiente punto**: 1.5 km (aprox. 20 min a pie o autobús turístico).
+- **Coste/Entrada**: 14€ (acceso completo).
+- **Reserva/Horario**: Preferible comprar online; abierto de 09:30 a 20:00.
+- **Qué veremos**: Colorido palacio con influencias románticas.
+- **Tipo**: Palacio.
+
+### 5. Parque y Palacio de Monserrate
+- **Distancia al siguiente punto**: 4 km (transporte recomendado).
+- **Coste/Entrada**: 8€.
+- **Reserva/Horario**: Abierto de 09:30 a 20:00.
+- **Qué veremos**: Arquitectura exótica y jardines botánicos.
+- **Tipo**: Palacio y parque.
+
+### 6. Convento de los Capuchinos
+- **Distancia al siguiente punto**: 5 km (transporte recomendado).
+- **Coste/Entrada**: 7€.
+- **Reserva/Horario**: Abierto de 09:30 a 20:00.
+- **Qué veremos**: Arquitectura monástica integrada con la naturaleza.
+- **Tipo**: Convento.
+
+### 7. Palacio Nacional y Jardines de Queluz
+- **Distancia al siguiente punto**: 10 km (transporte necesario).
+- **Coste/Entrada**: 10€.
+- **Reserva/Horario**: Abierto de 09:00 a 18:00.
+- **Qué veremos**: Palacio barroco con jardines ornamentados.
+- **Tipo**: Palacio.
+
+### 8. Chalet y Jardín de la Condesa d’Edla
+- **Distancia al siguiente punto**: 2 km (aprox. 25 min a pie o transporte).
+- **Coste/Entrada**: Incluido en el ticket del Palacio da Pena.
+- **Reserva/Horario**: Abierto de 09:30 a 20:00.
+- **Qué veremos**: Chalet pintoresco con un jard
+
+ín encantador.
+- **Tipo**: Chalet y jardín.
+
+### 9. Palacio de Seteais
+- **Distancia al siguiente punto**: 1 km (aprox. 12 min a pie).
+- **Coste/Entrada**: Visita externa gratuita, acceso interno puede tener coste.
+- **Reserva/Horario**: Verificar disponibilidad, ya que es ahora un hotel.
+- **Qué veremos**: Elegante palacio neoclásico.
+- **Tipo**: Palacio.
+
+### 10. Cruzeiro de São Pedro de Penaferrim
+- **Distancia de regreso a Cascais**: 12 km (transporte necesario).
+- **Coste/Entrada**: Gratis.
+- **Reserva/Horario**: Acceso público.
+- **Qué veremos**: Cruz emblemática en un área histórica.
+- **Tipo**: Monumento.
+
+### Regreso al Hotel Pestana Cascais
+- **Opciones de Transporte**:
+  1. **Tren**: Regreso a la estación de Sintra y tren a Cascais con cambio en Estoril.
+  2. **Autobús**: Línea directa de Sintra a Cascais.
+  3. **Taxi/Uber**: Más rápido y directo.
