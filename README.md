@@ -7,93 +7,121 @@
 ### 1. Praça dos Restauradores
 - **Distancia al siguiente punto**: 1 km (aprox. 13 min a pie).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No aplica.
 - **Qué veremos**: Monumentos, esculturas y la arquitectura impresionante de los edificios.
 - **Tipo**: Plaza pública.
 
 ### 2. Barrio Alto
 - **Distancia al siguiente punto**: 800 m (aprox. 10 min a pie).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No aplica.
 - **Qué veremos**: Calles estrechas, vida nocturna, tiendas de moda y arte local.
 - **Tipo**: Barrio histórico.
 
 ### 3. Iglesia de San Roque
 - **Distancia al siguiente punto**: 500 m (aprox. 7 min a pie).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No necesaria. Horario: 10:00 - 17:00.
 - **Qué veremos**: Interior rico en arte sacro y azulejos.
 - **Tipo**: Iglesia.
 
 ### 4. Memorial Judío
 - **Distancia al siguiente punto**: 600 m (aprox. 8 min a pie).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No aplica.
 - **Qué veremos**: Monumento en homenaje a las víctimas del Holocausto.
 - **Tipo**: Monumento.
 
 ### 5. Iglesia de Santo Domingo
 - **Distancia al siguiente punto**: 300 m (aprox. 4 min a pie).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No necesaria. Horario: 08:00 - 19:00.
 - **Qué veremos**: Iglesia histórica con impresionante arquitectura.
 - **Tipo**: Iglesia.
 
 ### 6. Plaza de Rossio
 - **Distancia al siguiente punto**: 200 m (aprox. 3 min a pie).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No aplica.
 - **Qué veremos**: Columna de Pedro IV y fuentes dinámicas.
 - **Tipo**: Plaza pública.
 
 ### 7. Convento do Carmo
 - **Distancia al siguiente punto**: 300 m (aprox. 4 min a pie).
 - **Coste/Entrada**: 4€.
-- **Reserva/Horario**: No necesaria. Horario: 10:00 - 18:00.
 - **Qué veremos**: Ruinas góticas y el museo arqueológico.
 - **Tipo**: Museo/Convento.
 
 ### 8. Elevador de Santa Justa
 - **Distancia al siguiente punto**: 400 m (aprox. 5 min a pie).
 - **Coste/Entrada**: 5€.
-- **Reserva/Horario**: No necesaria, pero puede haber cola. Horario: 07:30 - 21:00.
 - **Qué veremos**: Vistas panorámicas de Lisboa.
 - **Tipo**: Elevador/Mirador.
 
 ### 9. Barrio de Chiado
 - **Distancia al siguiente punto**: 300 m (aprox. 4 min a pie).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No aplica.
 - **Qué veremos**: Calles comerciales, teatros y cafés históricos.
 - **Tipo**: Barrio cultural.
 
 ### 10. Bertrand (Librería en Chiado)
 - **Distancia al siguiente punto**: 600 m (aprox. 8 min a pie).
 - **Coste/Entrada**: Gratis.
-
-
-- **Reserva/Horario**: No aplica.
 - **Qué veremos**: La librería más antigua del mundo en funcionamiento.
 - **Tipo**: Librería.
 
 ### 11. Rua Augusta
 - **Distancia al siguiente punto**: 100 m (aprox. 1 min a pie).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No aplica.
 - **Qué veremos**: Calle peatonal con comercios y artistas callejeros.
 - **Tipo**: Calle comercial.
 
 ### 12. Arco Monumental (al final de Rua Augusta)
-- **Distancia al siguiente punto**: 300 m (aprox. 4 min a pie).
+- **Distancia al siguiente punto**: 300 m (aprox. 
+
+4 min a pie).
 - **Coste/Entrada**: 3€ (para subir al mirador).
-- **Reserva/Horario**: No necesaria. Horario: 09:00 - 20:00.
 - **Qué veremos**: Vista panorámica desde el mirador del arco.
 - **Tipo**: Monumento.
 
 ### 13. Plaza del Comercio
+- **Distancia al siguiente punto**: 2.2 km (aprox. 28 min a pie o transporte).
 - **Coste/Entrada**: Gratis.
-- **Reserva/Horario**: No aplica.
 - **Qué veremos**: Amplia plaza frente al río, estatua de José I y el área comercial.
 - **Tipo**: Plaza pública.
 
+### 14. Museo Nacional del Azulejo
+- **Distancia al siguiente punto**: 6 km (tomar transporte).
+- **Coste/Entrada**: 5€.
+- **Qué veremos**: Historia y arte detrás de los famosos azulejos portugueses.
+- **Tipo**: Museo.
 
+### 15. Alfama
+- **Distancia al siguiente punto**: 1 km (aprox. 14 min a pie).
+- **Coste/Entrada**: Gratis.
+- **Qué veremos**: Calles empedradas, vistas y sonidos de la vida local, fado en vivo.
+- **Tipo**: Barrio histórico.
+
+### 16. Castillo de San Jorge
+- **Distancia al siguiente punto**: 1.5 km (aprox. 20 min a pie).
+- **Coste/Entrada**: 10€.
+- **Qué veremos**: Vistas panorámicas de Lisboa desde un castillo medieval.
+- **Tipo**: Castillo.
+
+### 17. Parque de las Naciones
+- **Distancia al siguiente punto**: 8 km (tomar transporte).
+- **Coste/Entrada**: Gratis para el parque, pero el Oceanario tiene entrada de 19€.
+- **Qué veremos**: Zona moderna, Oceanario, vistas al río Tajo.
+- **Tipo**: Parque/Área moderna.
+
+### 18. Monasterio de los Jerónimos
+- **Distancia al siguiente punto**: 1 km (aprox. 12 min a pie).
+- **Coste/Entrada**: 10€.
+- **Qué veremos**: Arquitectura gótica manuelina, tumba de Vasco da Gama.
+- **Tipo**: Monasterio.
+
+### 19. Torre de Belém
+- **Distancia al siguiente punto**: 1.5 km (aprox. 18 min a pie).
+- **Coste/Entrada**: 6€.
+- **Qué veremos**: Monumento manuelino a la exploración marítima.
+- **Tipo**: Torre/Monumento.
+
+### 20. Museo Calouste Gulbenkian
+- **Distancia de regreso al centro**: 7 km (tomar transporte).
+- **Coste/Entrada**: 10€.
+- **Qué veremos**: Colecciones que abarcan desde la antigüedad hasta el siglo XXI.
+- **Tipo**: Museo.
